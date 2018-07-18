@@ -18,4 +18,7 @@ String getName(){
 void setName(String _name){
 	name = _name;
 }
+void setName2(String _name){
+	name = _name;
+}
 }
